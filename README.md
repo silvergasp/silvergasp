@@ -16,6 +16,12 @@ I am also the primary contributor in both of these organizations.
 - [bazelembedded](https://github.com/bazelembedded)
 - [wildlifeblue](https://github.com/wildlife-blue)
 
+
+# Need help?
+So you've been using some of my code and found it useful, but you need help...
+- Open an issue/feature request: I'll get to it when I have spare time. If I'm unlikely to get to it in a reasonable amount of time, I'll be happy to coach you through doing it yourself and creating a PR etc.
+- I need "*Awesome feature X*"/"*I need terrible bug X fixed*" ASAP: **Hire me!** my contact details can be found on my profile or by running `git log`, on any of my repos.
+
 <!--
 **silvergasp/silvergasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
